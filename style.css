@@ -6,8 +6,8 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    width: 100vw;
+/*     height: 100vh;
+    width: 100vw; */
     background: url("https://s3-alpha-sig.figma.com/img/4cd4/2cb9/4d53e98a49661c11dadb75d6e3ff60a9?Expires=1693785600&Signature=C00pi8hdsM0Fau-9cpQnBIUlzAwNuL5WFzknnBHNx6UxfDhLXg-w9qhy~lPLZPDn1t6jU20ELD6BQHxoxVT5t6H0WFyBzP00Bp1Fv0QAU1Wzs1sM1T2UksVoNj6d1ZSgoD41HeqqtZe2fwv2fT3GKEU33hGEpr0HkYJCDmEwZuO-vGCg5ZtmkezE6R67HjhslYcVl3jfjx72QBgPuHBfd51Ty2nkGT1mg~B4y5mENjad7if-bpp0vUtrZIDgzAh1lpDvMb2~M67Td6oToUP02gpFEn0dhlhOMTyMpKBTqZ4XupjU8PNYZjGRnrbrnNjCjl9~x7OHqvAbHV38gtISfA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"), lightgray 50% / cover no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
